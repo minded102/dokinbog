@@ -3801,7 +3801,7 @@ end)
 
  
 --------------------------------------------------------------------
-local Library = Update:Window("MADOX ","")
+local Library = Update:Window("t7gfy ","")
 ------------------------------------------
 
 spawn(function()
