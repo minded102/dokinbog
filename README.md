@@ -3801,7 +3801,7 @@ end)
 
  
 --------------------------------------------------------------------
-local Library = Update:Window("       -.̶̛͜-̴̢͡ ๖ۣۜζ͜͡NĔĞŘ𝕏#6870 ","")
+local Library = Update:Window("MADOX ","")
 ------------------------------------------
 
 spawn(function()
@@ -4232,13 +4232,13 @@ local Misc = Library:Tab("Misc","rbxassetid://11447063791")
 local Op = Library:Tab("Status", "rbxassetid://7040410130")
 --------------------------------------------------------------------
 
-Setting:Label("Join My Discord For More Info!")
+Setting:Label("get free premeum!!!")
 
 Setting:Line()
 
-Setting:Button("Copy Discord Link",function()
+Setting:Button(" put link in brawser ",function()
  
- setclipboard("https://discord.gg/pMXwTQz6Yk")
+ setclipboard("https://pnrtscr.com/kqrkc7")
  end)
 
 Setting:Seperator(" Setting ")
