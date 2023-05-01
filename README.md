@@ -4238,7 +4238,7 @@ Setting:Line()
 
 Setting:Button(" put link in brawser ",function()
  
- setclipboard("https://pnrtscr.com/kqrkc7")
+ setclipboard("https://link-hub.net/673124/t7gfy-premeum1")
  end)
 
 Setting:Seperator(" Setting ")
