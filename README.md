@@ -4236,9 +4236,9 @@ Setting:Label("get free premeum!!!")
 
 Setting:Line()
 
-Setting:Button(" put link in brawser ",function()
+Setting:Button(" put link in google or any brawser ",function()
  
- setclipboard("https://link-hub.net/673124/t7gfy-premeum1")
+ setclipboard("https://www.youtube.com/@t_7_g_f_y")
  end)
 
 Setting:Seperator(" Setting ")
