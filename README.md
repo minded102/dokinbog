@@ -4236,7 +4236,7 @@ Setting:Label("get free premeum!!!")
 
 Setting:Line()
 
-Setting:Button(" put link in google or any brawser ",function()
+Setting:Button(" MY YT FOLOW FOR PREMEUM!!! ",function()
  
  setclipboard("https://www.youtube.com/@t_7_g_f_y")
  end)
