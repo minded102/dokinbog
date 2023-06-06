@@ -3801,7 +3801,7 @@ end)
 
  
 --------------------------------------------------------------------
-local Library = Update:Window("t7gfy ","")
+local Library = Update:Window("t7gfy-YT ","")
 ------------------------------------------
 
 spawn(function()
